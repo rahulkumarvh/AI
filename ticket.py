@@ -18,7 +18,7 @@ def maxProfit(seats, k, n):
     return profit
 
 
-if __name__ == "main":
+if __name__ == "__main__":
 
     seats = [12, 11, 10, 10]
     k = len(seats)
